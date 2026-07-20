@@ -1,0 +1,7 @@
+project_id = "mentor-roadmap-pro"
+
+# The generate-roadmap function authenticates callers itself using Clerk JWTs
+# (verified against Clerk's JWKS when CLERK_JWKS_URL is set). Supabase's default
+# gateway JWT check must be disabled because it only accepts Supabase-issued JWTs.
+[functions.generate-roadmap]
+verify_jwt = false
