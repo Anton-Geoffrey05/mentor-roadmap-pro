@@ -17,6 +17,10 @@ degree, current skills, and target role.
 - **Authentication** — Clerk (sign up / sign in / protected routes)
 - **Light & dark theme**, responsive dashboard, toast notifications, loading skeletons
 
+## Preview
+
+https://github.com/user-attachments/assets/70b978b4-900e-40f8-8b99-fee7c7e7fe63
+
 ## Architecture
 
 ```
